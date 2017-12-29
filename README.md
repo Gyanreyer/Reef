@@ -5,9 +5,6 @@ All art assets were personally made by me using Autodesk Maya and Adobe Photosho
 
 This was my final project for my Interactive Media Development course, I received a grade of 96% on this assignment.
 
-You may check out the assets and scripts used in the project folder "Geyer_FinalWorld" or open the project up in Unity if you have it installed.
-You may also run the program in Windows with the executable file in the "Executable Version" folder.
-
 ---
 
 CONTROLS:
